@@ -1,0 +1,33 @@
+* {
+    margin-left: -5px;
+    width: 110%;
+    height:110%;
+  }
+.container{
+
+    /* background-color: rgb(160, 160, 160); */
+    /* width: 600px;
+    height: 100px;
+    display: flex;
+    left: 100px; */
+
+    position: absolute;
+    right: 476.2px;
+    height: 200px;
+    width: 300px;
+    padding: 10px;
+    
+}
+
+/* .content{
+    position: absolute;
+    right: 0px;
+    height: 200px;
+    width: 300px;
+    padding: 10px;
+} */
+
+#find-me{
+    border-radius: 15px;
+
+}
